@@ -1,0 +1,1 @@
+import{an as e}from"./index-BNylXLUF.js";function n(){return e({url:"/system/system-setting/get",method:"get"})}function r(t){return e({url:"/system/system-setting/update",method:"post",data:t})}function m(t){return e({url:"/system/system-setting/refreshCache",method:"get",data:t,timeout:0})}export{r as a,m as r,n as s};

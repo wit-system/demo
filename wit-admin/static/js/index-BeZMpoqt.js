@@ -1,0 +1,1 @@
+import{_ as e,o as n,c}from"./index-BNylXLUF.js";const o={},t={class:"index-container no-background-container"};function r(s,a){return n(),c("div",t,"欢迎到来")}const i=e(o,[["render",r]]);export{i as default};

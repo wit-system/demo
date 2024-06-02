@@ -1,1 +1,0 @@
-import{_ as o}from"./AttributeGenericSpecifications.vue_vue_type_script_setup_true_lang-CLUbcc8u.js";import"./index-9sA7DK8G.js";import"./shapeProperties-CUHCwLVM.js";import"./fileUpload-CvA2-K53.js";import"./logisticsAttributes-BvSsYawa.js";import"./pharmaceuticalAttributes.vue_vue_type_script_setup_true_lang-DH-bVXzN.js";export{o as default};

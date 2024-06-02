@@ -1,1 +1,0 @@
-import{an as t}from"./index-9sA7DK8G.js";function n(e){return t({url:"/system/medicineUsage/put",method:"post",data:e})}function r(e){return t({url:"/system/medicineUsage/selectUsage",method:"post",data:e})}function a(){return t({url:"/system/medicineUsage/refresh-cache",method:"get",timeout:0})}export{n as a,r as m,a as r};
