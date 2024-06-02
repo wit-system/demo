@@ -1,0 +1,1 @@
+import{d as e,h as t,$ as o,o as n,c}from"./index-1fQ0gozz.js";const r={class:"redirect-container"},d=e({name:"Redirect",__name:"Redirect",setup(s){return t(()=>{o(()=>{history.back()},500)}),(a,i)=>(n(),c("div",r))}});export{d as default};
