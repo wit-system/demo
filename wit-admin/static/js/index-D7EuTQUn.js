@@ -1,0 +1,1 @@
+import{d as e,o as n,c as t}from"./index-BN8uVNSO.js";const o={class:"page1-container auto-height-container"},_=e({name:"",__name:"index",setup(a){return(c,s)=>(n(),t("div",o,"111"))}});export{_ as default};
