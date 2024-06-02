@@ -1,0 +1,1 @@
+import{an as t}from"./index-9sA7DK8G.js";function a(e){return t({url:`/system/pat-type/page?pageNum=${e.pageNum}&pageSize=${e.pageSize}`,method:"post",data:e})}function p(e){return t({url:"/system/pat-type/put-batch",method:"post",data:[e]})}function s(){return t({url:"/system/pat-type/refreshCache",method:"get",timeout:0})}export{p as e,a as g,s as r};
